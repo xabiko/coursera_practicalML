@@ -1,0 +1,10 @@
+base
+lattice
+ggplot2
+caret
+pROC
+foreach
+iterators
+doParallel
+rmarkdown
+reshape2
